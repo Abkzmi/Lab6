@@ -17,3 +17,5 @@ This file could be installed and opened with Jupyter Notebook to be run.
 ### How to use
 When you run the app, it's going to ask you for user's input for 3 things: hours of work, hourly wage, and tax percentage they pay.
 
+### How to contribute
+This tax calculator is just an average for the all states. Asking what state and city the user is from is the next step. Then calculating the tax based on the county they are situated in.
